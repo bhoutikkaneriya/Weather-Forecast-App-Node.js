@@ -1,5 +1,8 @@
 # Weather-Forecast-App
+
 This app shows the weather details of the specific address entered by user.
+
+
 
 
 Example 1: TO set default address:
