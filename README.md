@@ -6,6 +6,7 @@ Example 1: TO set default address:
 > node app-promise1.js --d="long beach"
 
 Weather forecast: Long Beach, CA, USA
+
 ---------------->
 
 Current Temperature: 21.17 °C
@@ -16,6 +17,7 @@ Example 2: To get weather details of address entered by the user:
 > node app-promise1.js --address="boston"
 
 Weather forecast: Boston, MA, USA
+
 ---------------->
 
 Current Temperature: 22.93 °C
